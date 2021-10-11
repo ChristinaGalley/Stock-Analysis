@@ -7,7 +7,7 @@ Performance analysis of all stocks in 2017 and 2018.
 ---
 ### **Results** ###
 ---
-###### According to this analysis, the majority of the stocks including DQ presented with a higher performance in 2017 than 2018. This was assesed by calculating the total daily volume and yearly return of each stock using `For` loop code and `If` code. The code was then refractored and the execution times of the 2 codes were compared. The refractored script took a shorter time to execute than the original script. Using 2018 as an example, the original script execution time was about 4.26 seconds, which compared to the refractored code's time (shown in imagine below) is longer. [Execution of refractored script, 2018]() ###### 
+###### According to this analysis, the majority of the stocks including DQ presented with a higher performance in 2017 than 2018. This was assesed by calculating the total daily volume and yearly return of each stock using `For` loop code and `If` code. The code was then refractored and the execution times of the 2 codes were compared. The refractored script took a shorter time to execute than the original script. Using 2018 as an example, the original script execution time was about 4.26 seconds, which compared to the refractored code's time (shown in imagine below) is longer. [Execution of refractored script, 2018](https://github.com/ChristinaGalley/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png.PNG) ###### 
 ---
 ### **Summary** ###
 ---
