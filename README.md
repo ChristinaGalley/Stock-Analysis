@@ -13,4 +13,4 @@ Performance analysis of all stocks in 2017 and 2018.
 ---
 ###### The obvious advantage of refactoring code is the decrease in execution time. Due to the higher efficiancy of the recfactored code, less memory is used, which is also a plus. However, there can be disadvantages to the refactoring process. It may take longer than expected to refactor the code, which is not efficient, and it is easy to overlook key steps in the analysis if the code is over simplified. ###### 
 ---
-###### I took these pros and cons into consideration as I was refractoring the original VBA script. I ran into issues with my code where I missed a step and it would not run. The debugging process did take longer than expected, but the end result was successfull in reducing the execution time.* ######
+###### I took these pros and cons into consideration as I was refractoring the original VBA script. I ran into issues with my code where I missed a step and it would not run. The debugging process did take longer than expected, but the end result was successfull in reducing the execution time. ######
